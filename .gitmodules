@@ -1,3 +1,6 @@
 [submodule "HW-2"]
 	path = HW-2
 	url = https://github.com/saby95/rottenpotatoes-rails-intro.git
+[submodule "HW-3"]
+	path = HW-3
+	url = https://github.com/saby95/hw-acceptance-unit-test-cycle
